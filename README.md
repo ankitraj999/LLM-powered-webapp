@@ -7,9 +7,12 @@ Surveillance LLM integrates the image description capabilities of BLIP (Bootstra
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1AFoV0ErNwta31_ntwEh7tvY-cak8niyc/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1DqUwmcnCqY4Ig6kuEBDLRDEq5JQd_HhK/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1rQGX7qSWliiY_8Mo4t6RaPdyX9UYmKdl/view?usp=sharing)
+<img width="1187" alt="Screenshot 2024-05-07 at 7 26 13 PM" src="https://github.com/ankitraj999/surveillance-LLM/assets/13768336/44fb02a1-da22-47ee-a937-a3658c7fcecd">
+<img width="1161" alt="Screenshot 2024-05-07 at 7 26 19 PM" src="https://github.com/ankitraj999/surveillance-LLM/assets/13768336/2464f7e1-05a1-4625-b500-004c8bb97cca">
+<img width="418" alt="Screenshot 2024-05-07 at 7 26 29 PM" src="https://github.com/ankitraj999/surveillance-LLM/assets/13768336/b7624168-2191-451e-8cf3-7ca7980ae695">
+<img width="343" alt="Screenshot 2024-05-07 at 7 26 34 PM" src="https://github.com/ankitraj999/surveillance-LLM/assets/13768336/3d520c2f-e4ef-4e9b-99d9-8283e8da7555">
+<img width="1101" alt="Screenshot 2024-05-07 at 7 26 41 PM" src="https://github.com/ankitraj999/surveillance-LLM/assets/13768336/b42e8749-10e4-4883-baee-1b5bd7c52f08">
+
 
 
 ## Documentation
